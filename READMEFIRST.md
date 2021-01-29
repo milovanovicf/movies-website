@@ -6,3 +6,5 @@ I am planning to add some new features in the future also make other pages so th
 Also add some new functions and a bit more style and maybe one day build an actual community of people who has the same passion about movies as i do or just regular people who want to find a movie to watch.
 Cheers! :)
 Milovanovic.F
+
+Also also you access the site by clicking on the index.html and nothing else.
